@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joao
-- 👀 I’m interested in: Web Development 
+- 👀 I’m interested in: Web Development, Data Science, AI
 - 🌱 I’m currently learning: NodeJS
 - 💞️ I’m looking to collaborate on: Full-Stack projects
 - 📫 How to reach me: joao.victorva08@gmail.com
