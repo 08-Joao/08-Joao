@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joao
 - 👀 I’m interested in: Web Development, Data Science, AI
-- 🌱 I’m currently learning: NodeJS, Machine Learning
-- 💞️ I’m looking to collaborate on: Full-Stack projects, Machine Learning, Deep Learning
+- 🌱 I’m currently learning: NodeJS, Machine Learning, Deep Learning
+- 💞️ I’m looking to collaborate on: Full-Stack projects, Machine Learning, Deep Learning, LLM
 - 📫 How to reach me: joao.victorva08@gmail.com
 - ⚡ Fun fact: I started coding for fun creating games on Roblox
 
