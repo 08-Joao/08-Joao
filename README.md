@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joao
 - 👀 I’m interested in: Web Development, Data Science, AI
-- 🌱 I’m currently learning: Java SpringBoot, NodeJS
+- 🌱 I’m currently learning: N8N, Evolution API
 - 💞️ I’m looking to collaborate on: Full-Stack projects, Mobile Projects
 - 📫 How to reach me: joao.victorva08@gmail.com
 - ⚡ Fun fact: I started coding for fun creating games on Roblox
